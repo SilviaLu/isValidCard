@@ -9,10 +9,14 @@
 -->Validacion: suma de elementos %10 == 0
 -->
 
-README
+### README ###
 *Ingresar los datos de la tarjeta mediante un prompt (Ingrese por favor su numero de tarjeta de credito),
 *Condicionar que el ingreso de los numeros de la tarjeta de credito no tenga espacios vacios y que sea de tipo numerico, de modo contrario el programa lanzara otro prompt que pida un numero de tarjeta valido sin espacios.
 *El ingreso del dato mediante en prompt es de tipo string o cadena de texto, este debera ser convertido a tipo array (arreglo), para luego poder invertir sus valores.(invertir valores mediante un reverse o un splice)
 *Una vez invertido los valores, se multiplican por dos (x2) las posiciones pares o de index impares.
 *El nuevo valor del elemento debera ser menor de 10, si cumple lo contrario (>=10), se sumará los elementos del valor, resultando un nuevo valor.
 *Se reordenan los nuevos elementos del array, para aplicarle una suma a todos los elementos, el resultado de esta suma se debera dividir entre 10, y tendra como residuo igual a 0 para ser considerado TARJETA VALIDA.
+
+Foto de flujograma
+[Con titulo](C:\Users\SilviaLu\Desktop\MY PROJECT\isValidCard\assets\docs "isValidCard")
+[Con titulo](http://subefotos.com/ver/?ec238baf9cfcfbae55e59edf9b9dd24ao.jpg "titulo")
